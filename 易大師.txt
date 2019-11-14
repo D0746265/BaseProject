@@ -1,3 +1,7 @@
 Legendary Master YEE
 Holy MOLY!!!!
+<<<<<<< HEAD
 365435434354
+=======
+God damn!
+>>>>>>> master
