@@ -1,4 +1,4 @@
-Legendary Master YEE
+﻿Legendary Master YEE
 Holy MOLY!!!!
 Shit!!
 <<<<<<< HEAD
@@ -6,3 +6,4 @@ Shit!!
 =======
 365435434354
 >>>>>>> master
+我不想被當
