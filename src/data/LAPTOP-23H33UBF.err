@@ -16,3 +16,31 @@
 2019-12-19 13:23:53 27028 [Note] Server socket created on IP: '::'.
 2019-12-19 13:23:53 27028 [Note] ../../ap/mariadb/bin/mysqld.exe: ready for connections.
 Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-12-19 13:26:45 23760 [Warning] You need to use --log-bin to make --binlog-format work.
+2019-12-19 13:26:45 23760 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2019-12-19 13:26:45 23760 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-12-19 13:26:45 23760 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-12-19 13:26:45 23760 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-12-19 13:26:45 23760 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-12-19 13:26:45 23760 [Note] InnoDB: Using generic crc32 instructions
+2019-12-19 13:26:45 23760 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-12-19 13:26:45 23760 [Note] InnoDB: Completed initialization of buffer pool
+2019-12-19 13:26:45 23760 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-12-19 13:26:45 23760 [Note] InnoDB: The log sequence numbers 1622818 and 1622818 in ibdata files do not match the log sequence number 1622828 in the ib_logfiles!
+2019-12-19 13:26:45 23760 [Note] InnoDB: Database was not shutdown normally!
+2019-12-19 13:26:45 23760 [Note] InnoDB: Starting crash recovery.
+2019-12-19 13:26:45 23760 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-12-19 13:26:45 23760 [Note] InnoDB: Restoring possible half-written data pages 
+2019-12-19 13:26:45 23760 [Note] InnoDB: from the doublewrite buffer...
+2019-12-19 13:26:45 23760 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-12-19 13:26:45 23760 [Note] InnoDB: Waiting for purge to start
+2019-12-19 13:26:45 23760 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1622828
+2019-12-19 13:26:45 7948 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2019-12-19 13:26:46 23760 [Note] Plugin 'FEEDBACK' is disabled.
+2019-12-19 13:26:46 23760 [Note] Server socket created on IP: '::'.
+2019-12-19 13:26:46 23760 [Note] ../../ap/mariadb/bin/mysqld.exe: ready for connections.
+Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-12-19 13:57:44 20876 [Note] InnoDB: Online DDL : Start
+2019-12-19 13:57:44 20876 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2019-12-19 13:57:44 20876 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2019-12-19 13:57:44 20876 [Note] InnoDB: Online DDL : Completed
