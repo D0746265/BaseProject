@@ -1,0 +1,144 @@
++--------------------------+--------------------+
+| Variable_name            | Value              |
++--------------------------+--------------------+
+| character_set_client     | utf8mb4            |
+| character_set_connection | utf8mb4            |
+| character_set_database   | utf8mb4            |
+| character_set_filesystem | binary             |
+| character_set_results    | utf8mb4            |
+| character_set_server     | utf8mb4            |
+| character_set_system     | utf8               |
+| collation_connection     | utf8mb4_unicode_ci |
+| collation_database       | utf8mb4_unicode_ci |
+| collation_server         | utf8mb4_unicode_ci |
++--------------------------+--------------------+
++--------------------------+-----------+
+| Variable_name            | Value     |
++--------------------------+-----------+
+| key_buffer_size          | 134217728 |
+| key_cache_age_threshold  | 300       |
+| key_cache_block_size     | 1024      |
+| key_cache_division_limit | 100       |
+| key_cache_file_hash_size | 512       |
+| key_cache_segments       | 0         |
++--------------------------+-----------+
++----------------------------+-----------+
+| Variable_name              | Value     |
++----------------------------+-----------+
+| aria_pagecache_buffer_size | 134217728 |
+| aria_sort_buffer_size      | 268434432 |
+| bulk_insert_buffer_size    | 8388608   |
+| innodb_log_buffer_size     | 16777216  |
+| innodb_sort_buffer_size    | 1048576   |
+| join_buffer_size           | 262144    |
+| key_buffer_size            | 134217728 |
+| mrr_buffer_size            | 262144    |
+| myisam_sort_buffer_size    | 134216704 |
+| preload_buffer_size        | 32768     |
+| read_buffer_size           | 131072    |
+| read_rnd_buffer_size       | 262144    |
+| sort_buffer_size           | 2097152   |
++----------------------------+-----------+
++--------------------------------+----------------------+
+| Variable_name                  | Value                |
++--------------------------------+----------------------+
+| aria_pagecache_age_threshold   | 300                  |
+| aria_pagecache_buffer_size     | 134217728            |
+| aria_pagecache_division_limit  | 100                  |
+| aria_pagecache_file_hash_size  | 512                  |
+| binlog_cache_size              | 32768                |
+| binlog_stmt_cache_size         | 32768                |
+| have_query_cache               | YES                  |
+| host_cache_size                | 279                  |
+| innodb_disable_sort_file_cache | OFF                  |
+| innodb_ft_cache_size           | 8000000              |
+| innodb_ft_result_cache_limit   | 2000000000           |
+| innodb_ft_total_cache_size     | 640000000            |
+| join_cache_level               | 2                    |
+| key_cache_age_threshold        | 300                  |
+| key_cache_block_size           | 1024                 |
+| key_cache_division_limit       | 100                  |
+| key_cache_file_hash_size       | 512                  |
+| key_cache_segments             | 0                    |
+| max_binlog_cache_size          | 18446744073709547520 |
+| max_binlog_stmt_cache_size     | 18446744073709547520 |
+| metadata_locks_cache_size      | 1024                 |
+| query_cache_limit              | 1048576              |
+| query_cache_min_res_unit       | 4096                 |
+| query_cache_size               | 1048576              |
+| query_cache_strip_comments     | OFF                  |
+| query_cache_type               | OFF                  |
+| query_cache_wlock_invalidate   | OFF                  |
+| stored_program_cache           | 256                  |
+| table_definition_cache         | 400                  |
+| table_open_cache               | 2000                 |
+| thread_cache_size              | 0                    |
++--------------------------------+----------------------+
++----------------------------------------+----------+
+| Variable_name                          | Value    |
++----------------------------------------+----------+
+| aria_encrypt_tables                    | OFF      |
+| aria_used_for_temp_tables              | ON       |
+| big_tables                             | OFF      |
+| encrypt_tmp_disk_tables                | OFF      |
+| innodb_corrupt_table_action            | assert   |
+| innodb_encrypt_tables                  | OFF      |
+| innodb_file_per_table                  | ON       |
+| innodb_ft_aux_table                    |          |
+| innodb_ft_server_stopword_table        |          |
+| innodb_ft_user_stopword_table          |          |
+| innodb_table_locks                     | ON       |
+| innodb_undo_tablespaces                | 0        |
+| lower_case_table_names                 | 1        |
+| max_heap_table_size                    | 16777216 |
+| max_tmp_tables                         | 32       |
+| old_alter_table                        | OFF      |
+| performance_schema_max_table_handles   | -1       |
+| performance_schema_max_table_instances | -1       |
+| replicate_do_table                     |          |
+| replicate_ignore_table                 |          |
+| replicate_wild_do_table                |          |
+| replicate_wild_ignore_table            |          |
+| table_definition_cache                 | 400      |
+| table_open_cache                       | 2000     |
+| tmp_table_size                         | 16777216 |
+| updatable_views_with_limit             | YES      |
+| use_stat_tables                        | NEVER    |
++----------------------------------------+----------+
++-------------------------------------+----------------+
+| Variable_name                       | Value          |
++-------------------------------------+----------------+
+| innodb_buffer_pool_dump_at_shutdown | OFF            |
+| innodb_buffer_pool_dump_now         | OFF            |
+| innodb_buffer_pool_dump_pct         | 100            |
+| innodb_buffer_pool_filename         | ib_buffer_pool |
+| innodb_buffer_pool_instances        | 8              |
+| innodb_buffer_pool_load_abort       | OFF            |
+| innodb_buffer_pool_load_at_startup  | OFF            |
+| innodb_buffer_pool_load_now         | OFF            |
+| innodb_buffer_pool_populate         | OFF            |
+| innodb_buffer_pool_size             | 134217728      |
++-------------------------------------+----------------+
++-------------------------------+----------+
+| Variable_name                 | Value    |
++-------------------------------+----------+
+| innodb_log_arch_dir           | .\       |
+| innodb_log_arch_expire_sec    | 0        |
+| innodb_log_archive            | OFF      |
+| innodb_log_block_size         | 512      |
+| innodb_log_buffer_size        | 16777216 |
+| innodb_log_checksum_algorithm | INNODB   |
+| innodb_log_compressed_pages   | OFF      |
+| innodb_log_file_size          | 50331648 |
+| innodb_log_files_in_group     | 2        |
+| innodb_log_group_home_dir     | .\       |
++-------------------------------+----------+
++--------------------------------+-------+
+| Variable_name                  | Value |
++--------------------------------+-------+
+| innodb_flush_log_at_timeout    | 1     |
+| innodb_flush_log_at_trx_commit | 1     |
+| innodb_flush_method            |       |
+| innodb_flush_neighbors         | 1     |
+| innodb_flushing_avg_loops      | 30    |
++--------------------------------+-------+
