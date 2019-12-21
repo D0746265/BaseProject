@@ -1,5 +1,5 @@
 <?php
-$url="./MoneyMange.html" ;
+$url="./MoneyManage.html" ;
 $inout=$_POST[inout];
 $amo=$_POST[amount];
 $descrption=$_POST[descrption];

@@ -6,3 +6,7 @@
 [21-Dec-2019 18:52:34 Asia/Taipei] PHP Notice:  Use of undefined constant amount - assumed 'amount' in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\M_record.php on line 4
 [21-Dec-2019 18:52:34 Asia/Taipei] PHP Notice:  Use of undefined constant descrption - assumed 'descrption' in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\M_record.php on line 5
 [21-Dec-2019 18:52:34 Asia/Taipei] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\M_record.php on line 21
+[21-Dec-2019 19:11:51 Asia/Taipei] PHP Notice:  Use of undefined constant inout - assumed 'inout' in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\M_record.php on line 3
+[21-Dec-2019 19:11:51 Asia/Taipei] PHP Notice:  Use of undefined constant amount - assumed 'amount' in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\M_record.php on line 4
+[21-Dec-2019 19:11:51 Asia/Taipei] PHP Notice:  Use of undefined constant descrption - assumed 'descrption' in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\M_record.php on line 5
+[21-Dec-2019 19:11:51 Asia/Taipei] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\M_record.php on line 21
