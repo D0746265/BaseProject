@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <!--測試-->
+    <h1>基本理財</h1>
+    
+    <form action="./M_record.php" method="post">
+        請選擇收入或支出: <br>
+        <input type="radio" name="inout" value="1" checked/>收入<br>
+        <input type="radio" name="inout" value="0"/>支出<br>
+        本次收入/支出金額(NTD): <br>
+        <input type="number" name="amount" required="required" placeholder="請輸入金額"/> <br>
+        詳細內容(非必填): <br>
+        <textarea cols="25" rows="5" name="descrption"></textarea> <br>
+        <input type="submit" value="送出"/>
+    </form>
+
+</body>
+</html>
