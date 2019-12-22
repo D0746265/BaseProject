@@ -1,0 +1,48 @@
+[22-Dec-2019 03:14:34 Asia/Taipei] PHP Notice:  Undefined variable: GOAL in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 2
+[22-Dec-2019 04:59:29 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'e'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 20
+[22-Dec-2019 04:59:29 Asia/Taipei] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 22
+[22-Dec-2019 05:01:01 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'qwe'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 20
+[22-Dec-2019 05:01:20 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'qwe'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 20
+[22-Dec-2019 05:21:08 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 2
+[22-Dec-2019 05:21:08 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 3
+[22-Dec-2019 05:42:37 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'fsfs'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 18
+[22-Dec-2019 05:43:48 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'qweq'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 18
+[22-Dec-2019 05:45:11 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'qwe'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 18
+[22-Dec-2019 05:45:34 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'dfdf'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 18
+[22-Dec-2019 06:22:53 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'qweqwe'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 18
+[22-Dec-2019 06:23:13 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:23:13 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:23:13 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:25:05 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:25:05 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:25:05 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:25:31 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:25:31 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:25:31 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:25:32 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:25:32 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:25:32 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:25:32 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:25:32 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:25:32 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:26:14 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:26:14 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:26:14 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:28:32 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:28:32 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:28:32 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:29:33 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 06:29:33 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 06:29:33 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 06:29:33 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 50
+[22-Dec-2019 07:13:51 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[22-Dec-2019 07:13:51 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 4
+[22-Dec-2019 07:13:51 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 5
+[22-Dec-2019 07:13:51 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
+[22-Dec-2019 07:15:25 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 2
+[22-Dec-2019 07:15:25 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 3
+[22-Dec-2019 07:15:25 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
+[22-Dec-2019 07:27:56 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '&lt;?php echo $ac?&gt;'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
+[22-Dec-2019 07:29:30 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '&lt;?php echo $ac?&gt;'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
+[22-Dec-2019 07:30:19 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '$ac'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
+[22-Dec-2019 08:36:22 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'ff'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73

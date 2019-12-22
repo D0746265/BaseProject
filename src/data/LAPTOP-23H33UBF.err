@@ -511,3 +511,126 @@ Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribut
 2019-12-21 19:10:44 21792 [Note] Server socket created on IP: '::'.
 2019-12-21 19:10:44 21792 [Note] ../../ap/mariadb/bin/mysqld.exe: ready for connections.
 Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-12-22  0:22:23 27064 [Warning] You need to use --log-bin to make --binlog-format work.
+2019-12-22  0:22:23 27064 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2019-12-22  0:22:23 27064 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-12-22  0:22:23 27064 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-12-22  0:22:23 27064 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-12-22  0:22:23 27064 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-12-22  0:22:23 27064 [Note] InnoDB: Using generic crc32 instructions
+2019-12-22  0:22:23 27064 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-12-22  0:22:23 27064 [Note] InnoDB: Completed initialization of buffer pool
+2019-12-22  0:22:23 27064 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-12-22  0:22:23 27064 [Note] InnoDB: The log sequence numbers 1622818 and 1622818 in ibdata files do not match the log sequence number 1977192 in the ib_logfiles!
+2019-12-22  0:22:23 27064 [Note] InnoDB: Database was not shutdown normally!
+2019-12-22  0:22:23 27064 [Note] InnoDB: Starting crash recovery.
+2019-12-22  0:22:23 27064 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-12-22  0:22:23 27064 [Note] InnoDB: Restoring possible half-written data pages 
+2019-12-22  0:22:23 27064 [Note] InnoDB: from the doublewrite buffer...
+2019-12-22  0:22:24 27064 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-12-22  0:22:24 27064 [Note] InnoDB: Waiting for purge to start
+2019-12-22  0:22:24 27064 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1977192
+2019-12-22  0:22:24 21052 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2019-12-22  0:22:24 27064 [Note] Plugin 'FEEDBACK' is disabled.
+2019-12-22  0:22:24 27064 [Note] Server socket created on IP: '::'.
+2019-12-22  0:22:24 27064 [Note] ../../ap/mariadb/bin/mysqld.exe: ready for connections.
+Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-12-22  0:33:38 28768 [Warning] You need to use --log-bin to make --binlog-format work.
+2019-12-22  0:33:38 28768 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2019-12-22  0:33:38 28768 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-12-22  0:33:38 28768 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-12-22  0:33:38 28768 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-12-22  0:33:38 28768 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-12-22  0:33:38 28768 [Note] InnoDB: Using generic crc32 instructions
+2019-12-22  0:33:38 28768 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-12-22  0:33:38 28768 [Note] InnoDB: Completed initialization of buffer pool
+2019-12-22  0:33:38 28768 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-12-22  0:33:38 28768 [Note] InnoDB: The log sequence numbers 1622818 and 1622818 in ibdata files do not match the log sequence number 1982216 in the ib_logfiles!
+2019-12-22  0:33:38 28768 [Note] InnoDB: Database was not shutdown normally!
+2019-12-22  0:33:38 28768 [Note] InnoDB: Starting crash recovery.
+2019-12-22  0:33:38 28768 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-12-22  0:33:38 28768 [Note] InnoDB: Restoring possible half-written data pages 
+2019-12-22  0:33:38 28768 [Note] InnoDB: from the doublewrite buffer...
+2019-12-22  0:33:38 28768 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-12-22  0:33:38 28768 [Note] InnoDB: Waiting for purge to start
+2019-12-22  0:33:38 28768 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1982216
+2019-12-22  0:33:39 25772 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2019-12-22  0:33:39 28768 [Note] Plugin 'FEEDBACK' is disabled.
+2019-12-22  0:33:39 28768 [Note] Server socket created on IP: '::'.
+2019-12-22  0:33:39 28768 [Note] ../../ap/mariadb/bin/mysqld.exe: ready for connections.
+Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-12-22  0:47:24 12428 [Warning] You need to use --log-bin to make --binlog-format work.
+2019-12-22  0:47:24 12428 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2019-12-22  0:47:24 12428 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-12-22  0:47:24 12428 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-12-22  0:47:24 12428 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-12-22  0:47:24 12428 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-12-22  0:47:24 12428 [Note] InnoDB: Using generic crc32 instructions
+2019-12-22  0:47:24 12428 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-12-22  0:47:24 12428 [Note] InnoDB: Completed initialization of buffer pool
+2019-12-22  0:47:25 12428 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-12-22  0:47:25 12428 [Note] InnoDB: The log sequence numbers 1622818 and 1622818 in ibdata files do not match the log sequence number 1985583 in the ib_logfiles!
+2019-12-22  0:47:25 12428 [Note] InnoDB: Database was not shutdown normally!
+2019-12-22  0:47:25 12428 [Note] InnoDB: Starting crash recovery.
+2019-12-22  0:47:25 12428 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-12-22  0:47:25 12428 [Note] InnoDB: Restoring possible half-written data pages 
+2019-12-22  0:47:25 12428 [Note] InnoDB: from the doublewrite buffer...
+2019-12-22  0:47:25 12428 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-12-22  0:47:25 12428 [Note] InnoDB: Waiting for purge to start
+2019-12-22  0:47:26 12428 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1985583
+2019-12-22  0:47:26 9032 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2019-12-22  0:47:26 12428 [Note] Plugin 'FEEDBACK' is disabled.
+2019-12-22  0:47:26 12428 [Note] Server socket created on IP: '::'.
+2019-12-22  0:47:26 12428 [Note] ../../ap/mariadb/bin/mysqld.exe: ready for connections.
+Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-12-22  6:21:44 15316 [Warning] You need to use --log-bin to make --binlog-format work.
+2019-12-22  6:21:44 15316 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2019-12-22  6:21:44 15316 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-12-22  6:21:44 15316 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-12-22  6:21:44 15316 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2019-12-22  6:21:44 15316 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-12-22  6:21:44 15316 [Note] InnoDB: Using generic crc32 instructions
+2019-12-22  6:21:44 15316 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2019-12-22  6:21:44 15316 [Note] InnoDB: Completed initialization of buffer pool
+2019-12-22  6:21:44 15316 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-12-22  6:21:44 15316 [Note] InnoDB: The log sequence numbers 1622818 and 1622818 in ibdata files do not match the log sequence number 1987230 in the ib_logfiles!
+2019-12-22  6:21:44 15316 [Note] InnoDB: Database was not shutdown normally!
+2019-12-22  6:21:44 15316 [Note] InnoDB: Starting crash recovery.
+2019-12-22  6:21:44 15316 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-12-22  6:21:44 15316 [Note] InnoDB: Restoring possible half-written data pages 
+2019-12-22  6:21:44 15316 [Note] InnoDB: from the doublewrite buffer...
+2019-12-22  6:21:44 15316 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-12-22  6:21:44 15316 [Note] InnoDB: Waiting for purge to start
+2019-12-22  6:21:45 15316 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.34-79.1 started; log sequence number 1987230
+2019-12-22  6:21:45 33744 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2019-12-22  6:21:45 15316 [Note] Plugin 'FEEDBACK' is disabled.
+2019-12-22  6:21:45 15316 [Note] Server socket created on IP: '::'.
+2019-12-22  6:21:45 15316 [ERROR] mysqld.exe: Table '.\mysql\user' is marked as crashed and should be repaired
+2019-12-22  6:21:45 15316 [Warning] Checking table:   '.\mysql\user'
+2019-12-22  6:21:45 15316 [ERROR] mysql.user: 1 client is using or hasn't closed the table properly
+2019-12-22  6:21:45 15316 [Note] ../../ap/mariadb/bin/mysqld.exe: ready for connections.
+Version: '10.1.20-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : Start
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2019-12-22  7:10:39 14996 [Note] InnoDB: Online DDL : Completed
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : Start
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2019-12-22  7:10:43 14996 [Note] InnoDB: Online DDL : Completed
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : Start
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2019-12-22  7:10:46 20608 [Note] InnoDB: Online DDL : Completed
