@@ -52,3 +52,6 @@
 [22-Dec-2019 08:49:33 Asia/Taipei] PHP Notice:  Undefined index: inout in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\SR\S_record.php on line 4
 [22-Dec-2019 08:49:33 Asia/Taipei] PHP Notice:  Undefined index: amount in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\SR\S_record.php on line 5
 [22-Dec-2019 08:49:33 Asia/Taipei] PHP Notice:  Undefined index: descrption in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\SR\S_record.php on line 6
+[22-Dec-2019 13:12:31 Asia/Taipei] PHP Notice:  Undefined index: inout in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\SR\S_record.php on line 4
+[22-Dec-2019 13:12:31 Asia/Taipei] PHP Notice:  Undefined index: amount in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\SR\S_record.php on line 5
+[22-Dec-2019 13:12:31 Asia/Taipei] PHP Notice:  Undefined index: descrption in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\SR\S_record.php on line 6

@@ -33,6 +33,13 @@ mysql_close($conn);
 <input type="hidden" name="pw" value="<?php echo $pw?>"/>
 <input type="submit" value="查 詢">
 </form>
+<!-- 查詢測試 -->
+<p style="text-align: center;">下面股票查閱測試</p>
+<form style="text-align: center;" action="./SC/StockCode.php" method="post">
+<input type="hidden" name="ac" value="<?php echo $ac?>"/>
+<input type="hidden" name="pw" value="<?php echo $pw?>"/>
+<input type="submit" value="股 票 查 閱">
+</form>
 <!-- 登出(返回首頁) -->
 <br>
 <form style="text-align: center;" action="../index.html" method="post">

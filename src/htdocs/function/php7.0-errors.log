@@ -46,3 +46,5 @@
 [22-Dec-2019 07:29:30 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '&lt;?php echo $ac?&gt;'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
 [22-Dec-2019 07:30:19 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '$ac'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
 [22-Dec-2019 08:36:22 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'ff'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
+[22-Dec-2019 13:14:05 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'wqwrqw'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
+[22-Dec-2019 16:31:10 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '1'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
