@@ -291,3 +291,14 @@
 [Tue Dec 24 06:25:45.054731 2019] [mpm_winnt:notice] [pid 28100:tid 596] AH00354: Child: Starting 64 worker threads.
 [Tue Dec 24 06:40:19.415798 2019] [mpm_winnt:crit] [pid 28100:tid 596] AH02538: Child: Parent process exited abruptly. Child process is ending
 [Tue Dec 24 06:40:21.418670 2019] [mpm_winnt:notice] [pid 28100:tid 596] AH00364: Child: All worker threads have exited.
+[Tue Dec 24 06:44:39.064221 2019] [ssl:warn] [pid 13976:tid 584] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:44:40.271290 2019] [ssl:warn] [pid 13976:tid 584] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:44:40.273286 2019] [mpm_winnt:notice] [pid 13976:tid 584] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2j mod_log_rotate/1.00 configured -- resuming normal operations
+[Tue Dec 24 06:44:40.273286 2019] [mpm_winnt:notice] [pid 13976:tid 584] AH00456: Server built: Dec 16 2016 23:05:57
+[Tue Dec 24 06:44:40.273286 2019] [core:notice] [pid 13976:tid 584] AH00094: Command line: '../../ap/Apache/bin/httpd.exe -d E:/Desktop/FCU/second year/software/BaseProject/src/ap/Apache -f ../../etc/httpd.conf -d ../../ap/Apache -C DocumentRoot '../../htdocs' -C Define PV 'php-7.1.0' -C Define HP 80 -C Define SP 443 -C Include '../../etc/php7.1/php.conf''
+[Tue Dec 24 06:44:40.274283 2019] [mpm_winnt:notice] [pid 13976:tid 584] AH00418: Parent: Created child process 24236
+[Tue Dec 24 06:44:40.789586 2019] [ssl:warn] [pid 24236:tid 604] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:44:41.289999 2019] [ssl:warn] [pid 24236:tid 604] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:44:41.294513 2019] [mpm_winnt:notice] [pid 24236:tid 604] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 06:44:44.417002 2019] [mpm_winnt:crit] [pid 24236:tid 604] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 24 06:44:46.419188 2019] [mpm_winnt:notice] [pid 24236:tid 604] AH00364: Child: All worker threads have exited.
