@@ -47,13 +47,13 @@ mysql_close($conn);
 if($inout == "1"){
   echo "收入";
 }else if($inout == "0"){
-  echo "支出";
+  echo "支出!!!!!!";
 }
 ?></p>
 <p style="text-align: center;">輸入之金額:&nbsp<?php echo $amo?></p>
 <p style="text-align: center;">詳細內容:</p>
 <p style="text-align: center;"><?php echo $descrption; ?></p>
-<h3 style="text-align: center; color:Red;"><?php
+<h3 style="text-align: center; color:Red;"><?php 
 if($total < "0" && $inout == "0"){
   echo "【注意：所剩餘額已達負值，提醒您請勿再支出】";
 }
