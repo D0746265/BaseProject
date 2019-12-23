@@ -21,7 +21,9 @@ mysql_close($conn);
     </head>
     <body style="font-family: 'Lato', 'Microsoft JhengHei', '微軟正黑體', sans-serif;">
         <div class="container" style="margin-top: 30px;">
-            <form style="text-align: center;">
+            <form style="text-align: center;" method="post">
+              <input type="hidden" name="ac" value="<?php echo $ac?>"/>
+              <input type="hidden" name="pw" value="<?php echo $pw?>"/>
               <div class="form-group">
                 <label for="input-temp" id="label-temp">請輸入股票代碼</label><br>
                 <input type="number" class="form-control" id="input-temp" />

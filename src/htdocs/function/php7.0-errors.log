@@ -48,3 +48,10 @@
 [22-Dec-2019 08:36:22 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'ff'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
 [22-Dec-2019 13:14:05 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'wqwrqw'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
 [22-Dec-2019 16:31:10 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '1'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
+[23-Dec-2019 13:32:24 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'test2'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
+[23-Dec-2019 13:45:20 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 2
+[23-Dec-2019 13:45:20 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 3
+[23-Dec-2019 13:45:20 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\function.php on line 5
+[23-Dec-2019 13:50:06 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user '1'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73
+[24-Dec-2019 06:26:25 Asia/Taipei] PHP Notice:  Undefined index: logreg in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 3
+[24-Dec-2019 06:26:25 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user 'test'@'localhost' (using password: YES) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\log.php on line 73

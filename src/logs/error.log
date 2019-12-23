@@ -247,3 +247,47 @@
 [Sun Dec 22 16:25:37.472496 2019] [mpm_winnt:notice] [pid 16312:tid 596] AH00354: Child: Starting 64 worker threads.
 [Sun Dec 22 16:33:13.573595 2019] [mpm_winnt:crit] [pid 16312:tid 596] AH02538: Child: Parent process exited abruptly. Child process is ending
 [Sun Dec 22 16:33:15.575276 2019] [mpm_winnt:notice] [pid 16312:tid 596] AH00364: Child: All worker threads have exited.
+[Mon Dec 23 13:16:47.041244 2019] [ssl:warn] [pid 2768:tid 600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 13:16:47.542902 2019] [ssl:warn] [pid 2768:tid 600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 13:16:47.544897 2019] [mpm_winnt:notice] [pid 2768:tid 600] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2j mod_log_rotate/1.00 configured -- resuming normal operations
+[Mon Dec 23 13:16:47.544897 2019] [mpm_winnt:notice] [pid 2768:tid 600] AH00456: Server built: Dec 16 2016 23:05:57
+[Mon Dec 23 13:16:47.544897 2019] [core:notice] [pid 2768:tid 600] AH00094: Command line: '../../ap/Apache/bin/httpd.exe -d E:/Desktop/FCU/second year/software/BaseProject/src/ap/Apache -f ../../etc/httpd.conf -d ../../ap/Apache -C DocumentRoot '../../htdocs' -C Define PV 'php-7.1.0' -C Define HP 80 -C Define SP 443 -C Include '../../etc/php7.1/php.conf''
+[Mon Dec 23 13:16:47.545895 2019] [mpm_winnt:notice] [pid 2768:tid 600] AH00418: Parent: Created child process 28836
+[Mon Dec 23 13:16:48.049565 2019] [ssl:warn] [pid 28836:tid 596] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 13:16:48.540235 2019] [ssl:warn] [pid 28836:tid 596] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 13:16:48.545222 2019] [mpm_winnt:notice] [pid 28836:tid 596] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 23 14:25:33.944273 2019] [mpm_winnt:crit] [pid 28836:tid 596] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 23 14:25:35.945630 2019] [mpm_winnt:notice] [pid 28836:tid 596] AH00364: Child: All worker threads have exited.
+[Mon Dec 23 18:18:50.293541 2019] [ssl:warn] [pid 8936:tid 584] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 18:18:52.922761 2019] [ssl:warn] [pid 8936:tid 584] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 18:18:52.932734 2019] [mpm_winnt:notice] [pid 8936:tid 584] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2j mod_log_rotate/1.00 configured -- resuming normal operations
+[Mon Dec 23 18:18:52.952685 2019] [mpm_winnt:notice] [pid 8936:tid 584] AH00456: Server built: Dec 16 2016 23:05:57
+[Mon Dec 23 18:18:52.952685 2019] [core:notice] [pid 8936:tid 584] AH00094: Command line: '../../ap/Apache/bin/httpd.exe -d E:/Desktop/FCU/second year/software/BaseProject/src/ap/Apache -f ../../etc/httpd.conf -d ../../ap/Apache -C DocumentRoot '../../htdocs' -C Define PV 'php-7.1.0' -C Define HP 80 -C Define SP 443 -C Include '../../etc/php7.1/php.conf''
+[Mon Dec 23 18:18:52.956679 2019] [mpm_winnt:notice] [pid 8936:tid 584] AH00418: Parent: Created child process 30060
+[Mon Dec 23 18:18:55.511841 2019] [ssl:warn] [pid 30060:tid 600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 18:18:57.156765 2019] [ssl:warn] [pid 30060:tid 600] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Dec 23 18:18:57.184690 2019] [mpm_winnt:notice] [pid 30060:tid 600] AH00354: Child: Starting 64 worker threads.
+[Mon Dec 23 18:26:46.647367 2019] [mpm_winnt:crit] [pid 30060:tid 600] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Dec 23 18:26:48.649020 2019] [mpm_winnt:notice] [pid 30060:tid 600] AH00364: Child: All worker threads have exited.
+[Tue Dec 24 01:14:50.182840 2019] [ssl:warn] [pid 3964:tid 584] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 01:14:50.667102 2019] [ssl:warn] [pid 3964:tid 584] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 01:14:50.667102 2019] [mpm_winnt:notice] [pid 3964:tid 584] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2j mod_log_rotate/1.00 configured -- resuming normal operations
+[Tue Dec 24 01:14:50.667102 2019] [mpm_winnt:notice] [pid 3964:tid 584] AH00456: Server built: Dec 16 2016 23:05:57
+[Tue Dec 24 01:14:50.667102 2019] [core:notice] [pid 3964:tid 584] AH00094: Command line: '../../ap/Apache/bin/httpd.exe -d E:/Desktop/FCU/second year/software/BaseProject/src/ap/Apache -f ../../etc/httpd.conf -d ../../ap/Apache -C DocumentRoot '../../htdocs' -C Define PV 'php-7.1.0' -C Define HP 80 -C Define SP 443 -C Include '../../etc/php7.1/php.conf''
+[Tue Dec 24 01:14:50.667102 2019] [mpm_winnt:notice] [pid 3964:tid 584] AH00418: Parent: Created child process 8752
+[Tue Dec 24 01:14:51.150373 2019] [ssl:warn] [pid 8752:tid 596] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 01:14:51.603391 2019] [ssl:warn] [pid 8752:tid 596] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 01:14:51.619014 2019] [mpm_winnt:notice] [pid 8752:tid 596] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 01:16:01.214307 2019] [mpm_winnt:crit] [pid 8752:tid 596] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 24 01:16:03.232837 2019] [mpm_winnt:notice] [pid 8752:tid 596] AH00364: Child: All worker threads have exited.
+[Tue Dec 24 06:25:42.744454 2019] [ssl:warn] [pid 35004:tid 588] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:25:44.065897 2019] [ssl:warn] [pid 35004:tid 588] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:25:44.067892 2019] [mpm_winnt:notice] [pid 35004:tid 588] AH00455: Apache/2.4.25 (Win64) OpenSSL/1.0.2j mod_log_rotate/1.00 configured -- resuming normal operations
+[Tue Dec 24 06:25:44.068889 2019] [mpm_winnt:notice] [pid 35004:tid 588] AH00456: Server built: Dec 16 2016 23:05:57
+[Tue Dec 24 06:25:44.068889 2019] [core:notice] [pid 35004:tid 588] AH00094: Command line: '../../ap/Apache/bin/httpd.exe -d E:/Desktop/FCU/second year/software/BaseProject/src/ap/Apache -f ../../etc/httpd.conf -d ../../ap/Apache -C DocumentRoot '../../htdocs' -C Define PV 'php-7.1.0' -C Define HP 80 -C Define SP 443 -C Include '../../etc/php7.1/php.conf''
+[Tue Dec 24 06:25:44.069887 2019] [mpm_winnt:notice] [pid 35004:tid 588] AH00418: Parent: Created child process 28100
+[Tue Dec 24 06:25:44.565696 2019] [ssl:warn] [pid 28100:tid 596] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:25:45.046795 2019] [ssl:warn] [pid 28100:tid 596] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 24 06:25:45.054731 2019] [mpm_winnt:notice] [pid 28100:tid 596] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 24 06:40:19.415798 2019] [mpm_winnt:crit] [pid 28100:tid 596] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Dec 24 06:40:21.418670 2019] [mpm_winnt:notice] [pid 28100:tid 596] AH00364: Child: All worker threads have exited.

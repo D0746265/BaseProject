@@ -47,7 +47,7 @@ mysql_close($conn);
 if($inout == "1"){
   echo "收入";
 }else if($inout == "0"){
-  echo "支出!!!!!!";
+  echo "支出";
 }
 ?></p>
 <p style="text-align: center;">輸入之金額:&nbsp<?php echo $amo?></p>
