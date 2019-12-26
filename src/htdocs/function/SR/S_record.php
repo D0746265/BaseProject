@@ -11,9 +11,9 @@ $DBHOST = "localhost"; //主機位置
 $DBAC = $ac; //登入資料庫的帳號
 $conn = mysql_connect( $DBHOST,$DBAC,$pw); //連接資料庫
 if (empty($conn)){
-  print mysql_error($conn);
+  //print mysql_error($conn);
   die ("無法連結資料庫<br>");
-  exit;
+  //exit;
 }
 if( !mysql_select_db("lm_data",$conn)) { //選擇資料庫
   die ("無法選擇資料庫<br>");

@@ -9,6 +9,7 @@ $time=date("Y-m-d H:i:s");
 <html>
 
 <head>
+<title>登入...</title>
 </head>
 
 <body>

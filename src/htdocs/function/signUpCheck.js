@@ -3,6 +3,30 @@ document.getElementById("submitBtn").disabled = true;
 var mailOK, accountOK, passOK, botOk;
 var buttonValue;
 
+function checkEmail(){
+    var email = document.getElementById("mail").value;
+    if( email == ""){
+        mailOK = 0;
+        visBot();
+        document.getElementById("toSubmit").disabled = true;
+        document.getElementById("msg-mail").innerHTML = "<br>&ensp;請輸入電子郵件&ensp;<br>";
+    }
+    else{
+        var ch = document.getElementById("mail").value;
+        if(ch.indexOf('@') >= 0){
+            accountOK = 1;
+            document.getElementById("msg-mail").innerHTML = "";
+            visBot();
+        }
+        else{
+            accountOK = 0;
+            document.getElementById("toSubmit").disabled = true;
+            document.getElementById("msg-mail").innerHTML = "<br>&ensp;必須包含&quot;@&quot;字符&ensp;<br>";
+            visBot();
+        }
+        
+    } 
+}
 
 function checkAccount(){
     var email = document.getElementById("acnt").value;

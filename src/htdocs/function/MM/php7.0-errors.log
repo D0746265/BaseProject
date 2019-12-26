@@ -10,3 +10,9 @@
 [22-Dec-2019 07:15:11 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 2
 [22-Dec-2019 07:15:11 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 3
 [22-Dec-2019 07:15:11 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 5
+[26-Dec-2019 09:19:34 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 2
+[26-Dec-2019 09:19:34 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 3
+[26-Dec-2019 09:19:34 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 5
+[26-Dec-2019 09:21:00 Asia/Taipei] PHP Notice:  Undefined index: ac in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 2
+[26-Dec-2019 09:21:00 Asia/Taipei] PHP Notice:  Undefined index: pw in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 3
+[26-Dec-2019 09:21:00 Asia/Taipei] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in E:\Desktop\FCU\second year\software\BaseProject\src\htdocs\function\MM\MoneyManage.php on line 5

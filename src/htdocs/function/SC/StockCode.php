@@ -239,7 +239,7 @@ mysql_close($conn);
                 document.getElementById("error-msg").innerHTML = "<br>輸入不可為空白";
                 return false;
               }
-              else if (document.getElementById("input-temp").value < 601000 || document.getElementById("input-temp").value > 601021 || document.getElementById("input-temp").value == 601004){
+              else if (document.getElementById("input-temp").value < 601000 || document.getElementById("input-temp").value > 601012 || document.getElementById("input-temp").value == 601004){
                 document.getElementById("error-msg").innerHTML = "<br>此代碼不存在";
                 return false;
               }

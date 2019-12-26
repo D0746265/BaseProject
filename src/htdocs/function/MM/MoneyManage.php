@@ -13,6 +13,7 @@ mysql_close($conn);
 ?>
 
 <html>
+    <head><title>基本理財</title></head>
 <body>
     <!--測試-->
     <h1 style="text-align: center;">基本理財</h1>
@@ -30,6 +31,7 @@ mysql_close($conn);
         <input type="submit" value="送出"/>
     </form>
     <br>
+    <hr>
     <form style="text-align: center;" action="../function.php" method="post">
     <input type="hidden" name="ac" value="<?php echo $ac?>"/>
     <input type="hidden" name="pw" value="<?php echo $pw?>"/>

@@ -39,6 +39,7 @@ mysql_close($conn);
 <html>
 
 <head>
+<title>收支結果</title>
 </head>
 
 <body>
@@ -59,6 +60,7 @@ if($total < "0" && $inout == "0"){
 }
 ?></h3>
 <br>
+
 <form style="text-align: center;" action="../function.php" method="post">
 <input type="hidden" name="ac" value="<?php echo $ac?>"/>
 <input type="hidden" name="pw" value="<?php echo $pw?>"/>
