@@ -56,6 +56,7 @@ mysql_close($conn);//關閉連結
         <input type="submit" value="如果要完整輸入日期請用這個提交" />
     </form>           
     <br>
+    <hr>
     <form style="text-align: center;" action="../function.php" method="post">
     <input type="hidden" name="ac" value="<?php echo $ac?>"/>
     <input type="hidden" name="pw" value="<?php echo $pw?>"/>

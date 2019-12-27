@@ -94,6 +94,7 @@ mysql_close($conn);
 </tr>
 </table>
 <br>
+<hr>
 <form style="text-align: center;" action="../function.php" method="post">
 <input type="hidden" name="ac" value="<?php echo $ac?>"/>
 <input type="hidden" name="pw" value="<?php echo $pw?>"/>
